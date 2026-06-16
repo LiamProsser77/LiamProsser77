@@ -1,4 +1,7 @@
-<h1 align="center">𝓗𝓮𝓲𝓪, 𝓘 𝓪𝓶 𝓛𝓲𝓪𝓶</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/banner.png" />
+</p>
+
 <h3 align="center">Norwegian-American Developer</h3>
 
 <p align="center">
@@ -42,3 +45,4 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LiamProsser77&theme=tokyonight" />
 </p>
+``
