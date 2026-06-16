@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML+C%23;Welcome+to+my+GitHub&center=true&width=500&height=45" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/HeofonGlobalSearchLogo2.png" width="200" />
+</p>
+
 ---
 
 ## Heofon Stats
