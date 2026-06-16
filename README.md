@@ -1,11 +1,10 @@
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png"
-    width="100%"
-    height="120"
-    style="object-fit: cover;"
-  />
+  <span style="display:inline-block; width:600px; height:120px; overflow:hidden;">
+    <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png" style="width:100%;" />
+  </span>
 </p>
+
+
 
 
 <h3 align="center">Norwegian-American Developer</h3>
