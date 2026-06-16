@@ -7,11 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML+C%23;Welcome+to+my+GitHub&center=true&width=500&height=45" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/HeofonGlobalSearchLogo2.png" width="180" />
-</p>
-
 <p align="center">
   <a href="mailto:heofonsearch.help@outlook.com">
     <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
@@ -21,6 +16,11 @@
   </a>
   <a href="https://www.linkedin.com/in/heofon-globalsearch-931504402/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- ✅ NEW GITLAB BADGE -->
+  <a href="https://gitlab.com/LiamProsser77">
+    <img src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </p>
 
