@@ -14,7 +14,6 @@
 
 Heofon Users: 1268  
 Followers: 18  
-Projects: 15 
 Apps Built: 15  
 
 ---
