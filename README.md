@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png" />
+  <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png" width="300" />
 </p>
+
 
 <h3 align="center">Norwegian-American Developer</h3>
 
