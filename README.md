@@ -5,11 +5,23 @@
 <h2 align="center">🇳🇴 Norwegian-American Developer 🇺🇸</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML+C%23;Welcome+to+my+GitHub&center=true&width=500&height=45" />
+  https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML+C%23;Welcome+to+my+GitHub&center=true&width=500&height=45
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/HeofonGlobalSearchLogo2.png" width="200" />
+  <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png"/>
+</p>
+
+<p align="center">
+  <a href="mailto:heofonsearch.help@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook" />
+  </a>
+  <a href="https://www.quora.com/profile/HeofonGlobalSearch">
+    <img src="https://img.shields.io/badge/Quora-Profile-red?style=for-the-badge&logo=quora" />
+  </a>
+  <a href="https://www.linkedin.com/in/heofon-globalsearch-931504402/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
