@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png" width="250" />
 </p>
 
-<h2 align="center">Norwegian-American Developer</h2>
+<h2 align="center">🇳🇴 Norwegian-American Developer 🇺🇸</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML+C%23;Welcome+to+my+GitHub&center=true&width=500&height=45" />
