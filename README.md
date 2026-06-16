@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png" width="300" />
+  <img 
+    src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png"
+    width="100%"
+    height="120"
+    style="object-fit: cover;"
+  />
 </p>
+
 
 <h3 align="center">Norwegian-American Developer</h3>
 
