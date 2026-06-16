@@ -10,7 +10,7 @@
 <h3 align="center">Norwegian-American Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typi<img width="500" height="500" alt="no-pole-01" src="https://github.com/user-attachments/assets/d7089606-c0fe-4f9c-8e8f-bab5de7701c2" />
+  
 ng-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML+C%23;Welcome+to+my+GitHub&center=true&width=500&height=45" />
 </p>
 
