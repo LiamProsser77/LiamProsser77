@@ -5,24 +5,11 @@
 <h2 align="center">🇳🇴 Norwegian-American Developer 🇺🇸</h2>
 
 <p align="center">
-  https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML+C%23;Welcome+to+my+GitHub&center=true&width=500&height=45
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML+C%23;Welcome+to+my+GitHub&center=true&width=500&height=45" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png"/>
-</p>
-
-<!-- ✅ NEW BADGES -->
-<p align="center">
-  <a href="mailto:heofonsearch.help@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook" />
-  </a>
-  <a href="https://www.quora.com/profile/HeofonGlobalSearch">
-    <img src="https://img.shields.io/badge/Quora-Profile-red?style=for-the-badge&logo=quora" />
-  </a>
-  <a href="https://www.linkedin.com/in/heofon-globalsearch-931504402/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/HeofonGlobalSearchLogo2.png" width="180" />
 </p>
 
 ---
@@ -37,8 +24,11 @@ Apps Built: 15
 
 ## About Me
 
-Founder & Lead Developer: Liam Aleksander Prosser
-I founded Heofon Global Search in early March 2026 after conceptualizing the platform in late February 2026. I lead the development on the Heofon search engine, Heopad, Heofonix AI models, and Heofon OS 26. I founded Heofon Search and he thought the privacy world of search engines needed a ecosytem so I created Heofon in his living room in Appleton Wisconsin during March 6 2026. Heofon Search was called Heofon Global Search, known today as Heofon Search. I am known as a coin collector and a developer, I also has fun in Pickle Ball and collects many antiques while developing the Heofon ecosytem. I am a Norwegian American developer that wants Heofon to be known to stop tracking searches and to have a private ecosytem.  
+Founder & Lead Developer: Liam Aleksander Prosser  
+
+I founded Heofon Global Search in early March 2026 after conceptualizing the platform in late February. I lead development across Heofon Search, HeoPad, Heofonix AI models, and Heofon OS 26. The idea for Heofon began in Appleton, Wisconsin, where I set out to create a private, user-focused search ecosystem.  
+
+In addition to development, I enjoy coin collecting, antiques, and playing pickleball. My goal is to build Heofon into a trusted platform that prioritizes privacy and gives users control over their data.  
 
 ---
 
@@ -52,18 +42,20 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 
 ## The Heofon Ecosystem
 
-- Heofon Search
-- Heofon Nodes
-- Heomaps
-- Heonews,
-- Knarr browser
-- Heofon OS 26
-- Heofonix AI
-- Heofonix Bluelight
-- Heomail, Heopad
-- HeoCompose
-- Heotranslate
-- HPP
-- Heofon Hub
-- Heofeedback
-- History of Heofon
+- Heofon Search  
+- Heofon Nodes  
+- Heomaps  
+- Heonews  
+- Knarr Browser  
+- Heofon OS 26  
+- Heofonix AI  
+- Heofonix Bluelight  
+- Heomail  
+- HeoPad  
+- HeoCompose  
+- Heotranslate  
+- HPP  
+- Heofon Hub  
+- Heofeedback  
+- History of Heofon  
+``
