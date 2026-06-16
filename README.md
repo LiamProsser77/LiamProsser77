@@ -14,22 +14,19 @@
 
 Heofon Users: 1268  
 Followers: 18  
-Projects: 3  
-Apps Built: 2  
+Projects: 15 
+Apps Built: 15  
 
 ---
 
 ## About Me
 
-- Developer of the Heofon ecosystem  
-- Creator of HeoPad and HeoCompose  
-- Norwegian-American  
-- Passionate about building tools and ideas  
-- Learning Python, HTML, and C#  
+Founder & Lead Developer: Liam Aleksander Prosser
+I founded Heofon Global Search in early March 2026 after conceptualizing the platform in late February 2026. I lead the development on the Heofon search engine, Heopad, Heofonix AI models, and Heofon OS 26. I founded Heofon Search and he thought the privacy world of search engines needed a ecosytem so I created Heofon in his living room in Appleton Wisconsin during March 6 2026. Heofon Search was called Heofon Global Search, known today as Heofon Search. I am known as a coin collector and a developer, I also has fun in Pickle Ball and collects many antiques while developing the Heofon ecosytem. I am a Norwegian American developer that wants Heofon to be known to stop tracking searches and to have a private ecosytem.  
 
 ---
 
-## Languages & Tools
+## Languages & Tools: Python, HTML5, C#
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,cs" />
@@ -37,8 +34,20 @@ Apps Built: 2
 
 ---
 
-## Projects
+## The Heofon Ecosystem
 
-- HeoCompose — document editor  
-- HeoPad — note-taking app  
-- Heofon — productivity ecosystem  
+- Heofon Search
+- Heofon Nodes
+- Heomaps
+- Heonews,
+- Knarr browser
+- Heofon OS 26
+- Heofonix AI
+- Heofonix Bluelight
+- Heomail, Heopad
+- HeoCompose
+- Heotranslate
+- HPP
+- Heofon Hub
+- Heofeedback
+- History of Heofon
