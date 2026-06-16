@@ -2,7 +2,7 @@
 <h3 align="center">Norwegian-American Developer</h3>
 
 <p align="center">
-  https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML+C%23;Welcome+to+my+GitHub&center=true&width=500&height=45
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML+C%23;Welcome+to+my+GitHub&center=true&width=500&height=45" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ## Languages & Tools
 
 <p align="center">
-  https://skillicons.dev/icons?i=python,html,cs
+  <img src="https://skillicons.dev/icons?i=python,html,cs" />
 </p>
 
 ---
@@ -36,9 +36,9 @@
 ## GitHub Stats
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=LiamProsser77&show_icons=true&theme=tokyonight
+  <img src="https://github-readme-stats.vercel.app/api?username=LiamProsser77&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  https://streak-stats.demolab.com?user=LiamProsser77&theme=tokyonight
+  <img src="https://streak-stats.demolab.com?user=LiamProsser77&theme=tokyonight" />
 </p>
