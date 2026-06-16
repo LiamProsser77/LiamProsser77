@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="display:inline-block; width:600px; height:120px; overflow:hidden;">
+  <span style="display:inline-block; width:300px; height:100px; overflow:hidden;">
     <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png" style="width:100%;" />
   </span>
 </p>
