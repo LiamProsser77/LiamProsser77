@@ -12,6 +12,18 @@
   <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/HeofonGlobalSearchLogo2.png" width="180" />
 </p>
 
+<p align="center">
+  <a href="mailto:heofonsearch.help@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.quora.com/profile/HeofonGlobalSearch">
+    <img src="https://img.shields.io/badge/Quora-Profile-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/heofon-globalsearch-931504402/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## Heofon Stats
@@ -24,13 +36,12 @@ Apps Built: 15
 
 ## About Me
 
-Founder & Lead Developer: Liam Aleksander Prosser  
-
-I founded Heofon Global Search in early March 2026 after conceptualizing the platform in late February 2026. I lead the development on the Heofon search engine, Heopad, Heofonix AI models, and Heofon OS 26. I founded Heofon Search and I thought the privacy world of search engines needed a ecosytem so I created Heofon in his living room in Appleton Wisconsin during March 6 2026. Heofon Search was called Heofon Global Search, known today as Heofon Search. I am known as a coin collector and a developer, Liam also has fun in Pickle Ball and collects many antiques while developing the Heofon ecosytem. I am a Norwegian American developer that wants Heofon to be known to stop tracking searches and to have a private ecosytem.
+Founder &amp; Lead Developer: Liam Aleksander Prosser
+I founded Heofon Global Search in early March 2026 after conceptualizing the platform in late February 2026. I lead the development on the Heofon search engine, Heopad, Heofonix AI models, and Heofon OS 26. I founded Heofon Search and he thought the privacy world of search engines needed a ecosytem so I created Heofon in his living room in Appleton Wisconsin during March 6 2026. Heofon Search was called Heofon Global Search, known today as Heofon Search. I am known as a coin collector and a developer, I also has fun in Pickle Ball and collects many antiques while developing the Heofon ecosytem. I am a Norwegian American developer that wants Heofon to be known to stop tracking searches and to have a private ecosytem.  
 
 ---
 
-## Languages & Tools: Python, HTML5, C#
+## Languages &amp; Tools: Python, HTML5, C#
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,cs" />
