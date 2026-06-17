@@ -68,5 +68,10 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 - HPP  
 - Heofon Hub  
 - Heofeedback  
-- History of Heofon  
+- History of Heofon
+
+## Users of Heofon by counrty:
+
+<img width="700" height="600" alt="counrty" src="https://github.com/user-attachments/assets/21f60f97-5ed4-4204-be54-bffa35cc43db" />
+
 
