@@ -70,8 +70,8 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 - Heofeedback  
 - History of Heofon
 
-## Users of Heofon by counrty:
+## Users of Heofon by country:
 
-<img width="700" height="600" alt="counrty" src="https://github.com/user-attachments/assets/21f60f97-5ed4-4204-be54-bffa35cc43db" />
+<img width="700" height="600" alt="country" src="https://github.com/user-attachments/assets/21f60f97-5ed4-4204-be54-bffa35cc43db" />
 
 
