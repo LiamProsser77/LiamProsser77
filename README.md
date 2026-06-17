@@ -43,10 +43,10 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 
 ---
 
-## Languages &amp; Tools: Python, HTML5, C#
+## Languages & Tools: Python, HTML5, C#, Ruby
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,cs" />
+<img src="https://skillicons.dev/icons?i=python,html,cs,ruby" />
 </p>
 
 ---
