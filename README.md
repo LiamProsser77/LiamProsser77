@@ -29,8 +29,12 @@
 ## Heofon Stats
 
 Heofon Users: 1268  
+
 Followers: 20
-Apps Built: 15  
+
+Apps Built: 15
+
+Countries In: 16
 
 ---
 #### Join my Quora Community to learn more about topics and questions at: https://heofonsearch.quora.com/
