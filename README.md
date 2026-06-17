@@ -43,13 +43,22 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 
 ---
 
-## Languages & Tools: Python, HTML5, C#, Ruby
+## Languages & Tools: Python, HTML5, C#, Ruby, CSS
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,cs,ruby" />
+<img src="https://skillicons.dev/icons?i=python,html,cs,ruby,css" />
 </p>
 
 ---
+
+## You can check out my work using these coding languages:
+
+- HTML: https://github.com/LiamProsser77/HeofonGlobalSearch (Heofon Search)
+- HTML: https://github.com/LiamProsser77/resisting-the-solace-website (Resisting the Solace website)
+- Ruby: https://github.com/LiamProsser77/Ruby-Heofon-Mini (Heofon Search in Ruby test)
+- CSS: https://github.com/LiamProsser77/Heofon-OS-26 (Heofon OS 26)
+
+
 
 ## The Heofon Ecosystem
 
