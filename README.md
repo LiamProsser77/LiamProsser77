@@ -36,7 +36,7 @@ Apps Built: 15
 
 ## About Me
 
-Founder &amp; Lead Developer: Liam Aleksander Prosser
+## Founder &amp; Lead Developer: Liam Aleksander Prosser
 I founded Heofon Global Search in early March 2026 after conceptualizing the platform in late February 2026. I lead the development on the Heofon search engine, Heopad, Heofonix AI models, and Heofon OS 26. I founded Heofon Search and I thought the privacy world of search engines needed an ecosystem, so I created Heofon in my living room in Appleton Wisconsin during March 6, 2026. Heofon Search was called Heofon Global Search, known today as Heofon Search. I am known as a coin collector and a developer, I also have fun in Pickle Ball and collect many antiques while developing the Heofon ecosytem. I am a Norwegian American developer that wants Heofon to be known to stop tracking searches and to have a private ecosystem. 
 
 ### You can test out Heofon Search at: https://heofonsearch.zite.so
