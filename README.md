@@ -87,6 +87,36 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 
 ## Users of Heofon by country:
 
-<img width="700" height="600" alt="country" src="https://github.com/user-attachments/assets/21f60f97-5ed4-4204-be54-bffa35cc43db" />
+🇺🇸 United States - 700
 
+🇳🇴 Norway - 300
 
+🇸🇪 Sweden - 20
+
+🇬🇧 United Kingdom - 5
+
+🇰🇷 South Korea - 200
+
+🇯🇵 Japan - 3 
+
+🇨🇦 Canada - 2
+
+🇧🇾 Belarus - 1
+
+🇸🇬 Singapore - 1
+
+🇺🇦 Ukraine - 1
+
+🇮🇳 India - 1
+
+🇵🇰 Pakistan - 1
+
+🇹🇭 Thailand - 1
+
+🇳🇬 Nigeria - 1
+
+🇧🇩 Bangladesh - 1
+
+🇨🇴 Colombia - 1
+
+🇹🇷 Türkiye - 1
