@@ -51,6 +51,8 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 
 ## Languages & Tools:
 
+From left to right, the left side represents what I’ve learned the most, and the right side represents what I’ve learned the least.
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,ruby,cs,css" />
 </p>
