@@ -57,6 +57,13 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 
 ---
 
+## Languages that Heofon Search is written in: 
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css" />
+</p>
+
+
 ## You can check out my work using these coding languages:
 
 - HTML: https://github.com/LiamProsser77/HeofonGlobalSearch (Heofon Search)
