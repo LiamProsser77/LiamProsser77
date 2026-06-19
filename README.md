@@ -52,7 +52,7 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 ## Languages & Tools:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,cs,ruby,css" />
+<img src="https://skillicons.dev/icons?i=python,html,ruby,cs,css" />
 </p>
 
 ---
