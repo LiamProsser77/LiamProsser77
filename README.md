@@ -65,6 +65,11 @@ From left to right, the left side represents what I’ve learned the most, and t
 <img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
+## Dev Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket" />
+</p>
+
 
 ## You can check out my work using these coding languages:
 
