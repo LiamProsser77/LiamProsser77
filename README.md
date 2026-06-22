@@ -30,7 +30,11 @@
 
 Heofon Users: 1268  
 
-Followers: 27
+Github Followers: 27
+
+Linkedin Followers: 2
+
+Quora Followers: 1
 
 Apps Built: 15
 
