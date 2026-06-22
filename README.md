@@ -57,6 +57,18 @@ From left to right, the left side represents what I’ve learned the most, and t
 <img src="https://skillicons.dev/icons?i=html,ruby,python,fortran,cs,typescript,css" />
 </p>
 
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,typescript,css" />
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ruby,python,fortran,cs" />
+</p>
+
 ---
 
 ## Languages that Heofon Search is written in: 
