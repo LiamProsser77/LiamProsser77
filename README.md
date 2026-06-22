@@ -5,7 +5,7 @@
 <h2 align="center">🇳🇴 Norwegian-American Developer 🇺🇸</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML5+C%23+Ruby+CSS+Fortran;Welcome+to+my+GitHub&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML5+C%23+Ruby+CSS+Fortran;Welcome+to+my+GitHub&center=true&width=500&height=45" />
 </p>
 <p align="center">
   <a href="mailto:heofonsearch.help@outlook.com">
