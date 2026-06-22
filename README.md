@@ -54,7 +54,7 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 From left to right, the left side represents what I’ve learned the most, and the right side represents what I’ve learned the least.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,ruby,python,fortran,cs,css" />
+<img src="https://skillicons.dev/icons?i=html,ruby,python,fortran,cs,typescript,css" />
 </p>
 
 ---
@@ -136,3 +136,6 @@ From left to right, the left side represents what I’ve learned the most, and t
 🇹🇷 Türkiye - 1
 
 🇵🇭 Philippines - 1
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamProsser77&layout=compact&theme=radical)
+
