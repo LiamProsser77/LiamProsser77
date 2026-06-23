@@ -86,6 +86,13 @@ From left to right, the left side represents what I’ve learned the most, and t
 <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket" />
 </p>
 
+## AI and others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,tensorflow,aws" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" />
+  
+
+
 
 ## You can check out my work using these coding languages:
 
