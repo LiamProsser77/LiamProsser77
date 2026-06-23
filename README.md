@@ -115,6 +115,10 @@ From left to right, the left side represents what I’ve learned the most, and t
 - Heofeedback  
 - History of Heofon
 
+#### Heofon is looking for non-binding partnerships with search engines, to partner email us at heofonsearch.help@outlook.com
+
+
+
 ## Users of Heofon by country:
 
 🇺🇸 United States - 700
