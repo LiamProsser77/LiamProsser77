@@ -164,6 +164,8 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇵🇭 Philippines - 1
 
+🇩🇪 Germany - 1
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamProsser77&layout=compact&theme=radical)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=LiamProsser77&show_icons=true&theme=radical)
