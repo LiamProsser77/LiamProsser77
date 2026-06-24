@@ -30,7 +30,7 @@
 
 Heofon Users: 1300
 
-Github Followers: 28
+Github Followers: 31
 
 Linkedin Followers: 2
 
@@ -174,6 +174,8 @@ From left to right, the left side represents what I’ve learned the most, and t
 🇩🇪 Germany - 1
 
 🇪🇬 Egypt - 1
+
+🇪🇹 Ethiopia - 1
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamProsser77&layout=compact&theme=radical)
 
