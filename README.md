@@ -38,7 +38,7 @@ Quora Followers: 1
 
 Apps Built: 15
 
-Countries In: 21
+Countries In: 22
 
 ---
 #### Join my Quora Community to learn more about topics and questions at: https://heofonsearch.quora.com/
@@ -135,47 +135,61 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 ## Users of Heofon by country:
 
-🇺🇸 United States - 700
+## North America
 
-🇳🇴 Norway - 300
+🇺🇸 United States — 700
 
-🇸🇪 Sweden - 20
+🇨🇦 Canada — 2
 
-🇬🇧 United Kingdom - 5
+## Europe
 
-🇰🇷 South Korea - 200
+🇳🇴 Norway — 300
 
-🇯🇵 Japan - 3 
+🇸🇪 Sweden — 20
 
-🇨🇦 Canada - 2
+🇬🇧 United Kingdom — 5
 
-🇧🇾 Belarus - 1
+🇩🇪 Germany — 1
 
-🇸🇬 Singapore - 1
+🇧🇾 Belarus — 1
 
-🇺🇦 Ukraine - 1
+🇺🇦 Ukraine — 1
 
-🇮🇳 India - 1
+🇹🇷 Türkiye — 1
 
-🇵🇰 Pakistan - 1
+## Asia
 
-🇹🇭 Thailand - 1
+🇰🇷 South Korea — 200
 
-🇳🇬 Nigeria - 1
+🇯🇵 Japan — 3
 
-🇧🇩 Bangladesh - 1
+🇮🇳 India — 1
 
-🇨🇴 Colombia - 1
+🇵🇰 Pakistan — 1
 
-🇹🇷 Türkiye - 1
+🇸🇬 Singapore — 1
 
-🇵🇭 Philippines - 1
+🇵🇭 Philippines — 1
 
-🇩🇪 Germany - 1
+🇹🇭 Thailand — 1
 
-🇪🇬 Egypt - 1
+🇧🇩 Bangladesh — 1
 
-🇪🇹 Ethiopia - 1
+## Africa
+
+🇳🇬 Nigeria — 1
+
+🇪🇬 Egypt — 1
+
+🇪🇹 Ethiopia — 1
+
+🇰🇪 Kenya — 1
+
+## South America
+
+🇨🇴 Colombia — 1
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamProsser77&layout=compact&theme=radical)
 
