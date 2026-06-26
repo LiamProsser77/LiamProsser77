@@ -32,7 +32,7 @@ Heofon Users: 1300
 
 Github Followers: 37
 
-Linkedin Followers: 2
+Linkedin Followers: 3
 
 Quora Followers: 1
 
@@ -58,13 +58,13 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 From left to right, the left side represents what I’ve learned the most, and the right side represents what I’ve learned the least.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,ruby,python,fortran,cs,typescript,css" />
+<img src="https://skillicons.dev/icons?i=html,ruby,python,swift,fortran,cs,css" />
 </p>
 
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,typescript,css" />
+<img src="https://skillicons.dev/icons?i=html,swift,css" />
 </p>
 
 ## Backend
