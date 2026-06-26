@@ -38,7 +38,7 @@ Quora Followers: 1
 
 Apps Built: 15
 
-Countries In: 23
+Countries In: 24
 
 ---
 #### Join my Quora Community to learn more about topics and questions at: https://heofonsearch.quora.com/
@@ -163,6 +163,8 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇯🇵 Japan — 3
 
+🇧🇩 Bangladesh — 2
+
 🇮🇳 India — 1
 
 🇵🇰 Pakistan — 1
@@ -173,7 +175,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇹🇭 Thailand — 1
 
-🇧🇩 Bangladesh — 1
+🇱🇰 Sri Lanka - 1
 
 ## Africa
 
