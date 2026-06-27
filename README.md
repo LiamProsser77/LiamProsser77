@@ -144,7 +144,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇺🇸 United States — 700
 
-🇨🇦 Canada — 2
+🇨🇦 Canada — 3
 
 ## Europe
 
@@ -170,7 +170,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇧🇩 Bangladesh — 2
 
-🇮🇳 India — 1
+🇮🇳 India — 2
 
 🇵🇰 Pakistan — 1
 
