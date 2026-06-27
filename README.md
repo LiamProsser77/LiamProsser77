@@ -30,7 +30,7 @@
 
 Heofon Users: 1300
 
-Github Followers: 43
+Github Followers: 45
 
 Linkedin Followers: 3
 
@@ -97,6 +97,11 @@ From left to right, the left side represents what I’ve learned the most, and t
   height="48"
 />
 
+## Want to Learn
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,php" />
+</p>
   
 
 
