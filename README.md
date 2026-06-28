@@ -30,7 +30,7 @@
 
 Heofon Users: 1300
 
-Github Followers: 48
+Github Followers: 53
 
 Linkedin Followers: 3
 
@@ -184,13 +184,13 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 ## Africa
 
+🇪🇬 Egypt — 3
+
+🇰🇪 Kenya — 2
+
 🇳🇬 Nigeria — 1
 
-🇪🇬 Egypt — 1
-
 🇪🇹 Ethiopia — 1
-
-🇰🇪 Kenya — 1
 
 🇿🇦 South Africa - 1
 
