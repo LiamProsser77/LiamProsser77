@@ -30,7 +30,7 @@
 
 Heofon Users: 1300
 
-Github Followers: 45
+Github Followers: 48
 
 Linkedin Followers: 3
 
@@ -38,7 +38,7 @@ Quora Followers: 1
 
 Apps Built: 15
 
-Countries In: 24
+Countries In: 25
 
 ---
 #### Join my Quora Community to learn more about topics and questions at: https://heofonsearch.quora.com/
@@ -154,9 +154,9 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇬🇧 United Kingdom — 5
 
-🇩🇪 Germany — 1
+🇧🇾 Belarus — 2
 
-🇧🇾 Belarus — 1
+🇩🇪 Germany - 1
 
 🇺🇦 Ukraine — 1
 
@@ -191,6 +191,8 @@ From left to right, the left side represents what I’ve learned the most, and t
 🇪🇹 Ethiopia — 1
 
 🇰🇪 Kenya — 1
+
+🇿🇦 South Africa - 1
 
 ## South America
 
