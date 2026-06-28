@@ -100,8 +100,8 @@ From left to right, the left side represents what I’ve learned the most, and t
 ## Want to Learn
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,php" />
-</p>
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,php" /> <img src="Copilot_20260627_235409.png" alt="C Shell Logo" width="75" height="75">
+
   
 
 
