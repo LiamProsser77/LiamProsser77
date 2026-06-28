@@ -168,9 +168,9 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇯🇵 Japan — 3
 
-🇧🇩 Bangladesh — 2
+🇮🇳 India — 3
 
-🇮🇳 India — 2
+🇧🇩 Bangladesh — 2
 
 🇵🇰 Pakistan — 1
 
