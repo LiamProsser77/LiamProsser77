@@ -215,9 +215,6 @@ From left to right, the left side represents what I’ve learned the most, and t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamProsser77&layout=compact&theme=radical)
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LiamProsser77&show_icons=true&theme=radical)
-
-
 ![Streak](https://streak-stats.demolab.com/?user=LiamProsser77&theme=radical)
 
 
@@ -225,11 +222,6 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 
 
-[![Rook](https://github-readme-stats.vercel.app/api/pin/?username=liamprosser77&repo=Rook&theme=radical)](https://github.com/liamprosser77/l-sharp)
-
-
-
-[![Ruby-Heofon-Mini](https://github-readme-stats.vercel.app/api/pin/?username=liamprosser77&repo=Ruby-Heofon-Mini&theme=radical)](https://github.com/liamprosser77/Ruby-Heofon-Mini)
 
 
 
