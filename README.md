@@ -7,6 +7,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML5+C%23+Ruby+CSS+Fortran;Welcome+to+my+GitHub&center=true&width=500&height=45" />
 </p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Appleton%20Rank-2nd%20Most%20Followed-green?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Wisconsin%20Rank-112nd%20Most%20Followed-green?style=for-the-badge&logo=github" />
+
+</div>
+
+
+
+
 <p align="center">
   <a href="mailto:heofonsearch.help@outlook.com">
     <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
