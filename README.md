@@ -55,6 +55,14 @@ Countries In: 26
 #### Join my Quora Community to learn more about topics and questions at: https://heofonsearch.quora.com/
 
 
+
+<p><a href="https://www.pinterest.com/liamprosser1309/_profile/_created/" target="_blank">
+  Follow this cute puppy on Pinterest 🐾
+</a></p>
+
+
+
+
 ## About Me
 
 ### Founder &amp; Lead Developer: Liam Aleksander Prosser
@@ -221,6 +229,9 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 
 [![HeofonGlobalSearch](https://github-readme-stats.vercel.app/api/pin/?username=liamprosser77&repo=HeofonGlobalSearch&theme=radical)](https://github.com/liamprosser77/HeofonGlobalSearch)
+
+
+
 
 
 
