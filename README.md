@@ -232,7 +232,6 @@ From left to right, the left side represents what I’ve learned the most, and t
 ![Streak](https://streak-stats.demolab.com/?user=LiamProsser77&theme=radical)
 
 
-[![HeofonGlobalSearch](https://github-readme-stats.vercel.app/api/pin/?username=liamprosser77&repo=HeofonGlobalSearch&theme=radical)](https://github.com/liamprosser77/HeofonGlobalSearch)
 
 
 
