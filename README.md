@@ -229,7 +229,6 @@ From left to right, the left side represents what I’ve learned the most, and t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamProsser77&layout=compact&theme=radical)
 
 
-![Streak](https://streak-stats.demolab.com/?user=LiamProsser77&theme=radical)
 
 
 
