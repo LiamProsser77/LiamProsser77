@@ -107,7 +107,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 ## AI and others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,tensorflow,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,tensorflow,aws,vercel" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" />
   <img
   src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"
@@ -119,7 +119,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 ## Want to Learn
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,php" /> <img src="Copilot_20260627_235409.png" alt="C Shell Logo" width="75" height="75">
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,php" /> 
 
   
 
