@@ -177,7 +177,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇧🇾 Belarus — 2
 
-🇩🇪 Germany - 1
+🇩🇪 Germany - 2
 
 🇺🇦 Ukraine — 1
 
@@ -193,9 +193,9 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇮🇳 India — 3
 
-🇧🇩 Bangladesh — 2
+🇵🇰 Pakistan — 3
 
-🇵🇰 Pakistan — 1
+🇧🇩 Bangladesh — 2
 
 🇸🇬 Singapore — 1
 
