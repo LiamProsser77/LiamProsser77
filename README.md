@@ -49,7 +49,7 @@ Quora Followers: 1
 
 Apps Built: 15
 
-Countries In: 31
+Countries In: 32
 
 ---
 #### Join my Quora Community to learn more about topics and questions at: https://heofonsearch.quora.com/
@@ -169,7 +169,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 ## Europe
 
-🇳🇴 Norway — 300
+🇳🇴 Norway — 350
 
 🇸🇪 Sweden — 20
 
@@ -182,6 +182,8 @@ From left to right, the left side represents what I’ve learned the most, and t
 🇺🇦 Ukraine — 1
 
 🇹🇷 Türkiye — 1
+
+🇨🇭 Switzerland - 1
 
 ## Asia
 
