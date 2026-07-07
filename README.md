@@ -189,13 +189,13 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇰🇷 South Korea — 200
 
+🇧🇩 Bangladesh — 4
+
 🇯🇵 Japan — 3
 
 🇮🇳 India — 3
 
 🇵🇰 Pakistan — 3
-
-🇧🇩 Bangladesh — 3
 
 🇸🇬 Singapore — 1
 
