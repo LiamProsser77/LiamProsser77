@@ -179,9 +179,9 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇩🇪 Germany - 2
 
-🇺🇦 Ukraine — 1
+🇹🇷 Türkiye — 2
 
-🇹🇷 Türkiye — 1
+🇺🇦 Ukraine — 1
 
 🇨🇭 Switzerland - 1
 
