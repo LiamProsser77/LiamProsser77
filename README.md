@@ -49,7 +49,7 @@ Quora Followers: 1
 
 Apps Built: 15
 
-Countries In: 34
+Countries In: 35
 
 ---
 #### Join my Quora Community to learn more about topics and questions at: https://heofonsearch.quora.com/
@@ -214,6 +214,8 @@ From left to right, the left side represents what I’ve learned the most, and t
 🇰🇭 Cambodia - 1
 
 🇨🇳 China - 1
+
+🇯🇴 Jordan - 1
 
 ## Africa
 
