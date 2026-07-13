@@ -11,7 +11,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Appleton%20Rank-2nd%20Most%20Followed-green?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Wisconsin%20Rank-99th%20Most%20Followed-green?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Wisconsin%20Rank-97th%20Most%20Followed-green?style=for-the-badge&logo=github" />
 
 </div>
 
@@ -27,9 +27,8 @@
   </a>
   <a href="https://www.linkedin.com/in/heofon-globalsearch-931504402/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- ✅ NEW GITLAB BADGE -->
+  
+    
   <a href="https://gitlab.com/LiamProsser77">
     <img src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
