@@ -191,7 +191,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇰🇷 South Korea — 200
 
-🇧🇩 Bangladesh — 4
+🇧🇩 Bangladesh — 5
 
 🇯🇵 Japan — 3
 
@@ -221,7 +221,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇪🇬 Egypt — 3
 
-🇰🇪 Kenya — 2
+🇰🇪 Kenya — 3
 
 🇳🇬 Nigeria — 1
 
