@@ -27,7 +27,7 @@
   </a>
   <a href="https://www.linkedin.com/in/heofon-globalsearch-931504402/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a href="https://www.linkedin.com/in/heofon-globalsearch-931504402/">
+    <a href="https://www.twitch.tv/heofonsearch">
       <img src="https://img.shields.io/badge/Twitch-Profile-0A66C2?style=for-the-badge&logo=twitch&logoColor=white" />
   
     
