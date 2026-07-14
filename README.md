@@ -164,7 +164,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 ## North America
 
-🇺🇸 United States — 700
+🇺🇸 United States — 701
 
 🇨🇦 Canada — 3
 
