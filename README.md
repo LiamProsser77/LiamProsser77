@@ -41,12 +41,13 @@
 ---
 
 ## Heofon Stats
+### Goal: 100 Followers
 
 Heofon Users: 1300
 
-Github Followers: 81
+Github Followers: 82
 
-Linkedin Followers: 5
+Linkedin Followers: 7
 
 Twitch Followers: 1
 
@@ -166,7 +167,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 ## North America
 
-🇺🇸 United States — 701
+🇺🇸 United States — 702
 
 🇨🇦 Canada — 3
 
