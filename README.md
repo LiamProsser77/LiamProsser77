@@ -45,7 +45,7 @@
 
 Heofon Users: 1300
 
-Github Followers: 108
+Github Followers: 113
 
 Linkedin Followers: 7
 
@@ -197,13 +197,13 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇰🇷 South Korea — 200
 
+🇵🇰 Pakistan — 6
+
 🇧🇩 Bangladesh — 5
 
 🇯🇵 Japan — 3
 
 🇮🇳 India — 3
-
-🇵🇰 Pakistan — 3
 
 🇸🇬 Singapore — 1
 
