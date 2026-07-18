@@ -41,7 +41,7 @@
 ---
 
 ## Heofon Stats
-### Goal: 100 Followers
+### Goal: 150 Followers
 
 Heofon Users: 1300
 
