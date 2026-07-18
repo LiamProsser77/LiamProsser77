@@ -11,7 +11,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Appleton%20Rank-2nd%20Most%20Followed-green?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Wisconsin%20Rank-97th%20Most%20Followed-green?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Wisconsin%20Rank-60th%20Most%20Followed-green?style=for-the-badge&logo=github" />
 
 </div>
 
@@ -55,7 +55,7 @@ Quora Followers: 1
 
 Apps Built: 15
 
-Countries In: 35
+Countries In: 37
 
 ---
 #### Join my Quora Community to learn more about topics and questions at: https://heofonsearch.quora.com/
@@ -238,6 +238,8 @@ From left to right, the left side represents what I’ve learned the most, and t
 🇲🇬 Madagascar - 1
 
 🇲🇦 Morocco - 1
+
+🇩🇿 Algeria - 1
 
 ## South America
 
