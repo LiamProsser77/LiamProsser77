@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Appleton%20Rank-2nd%20Most%20Followed-green?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Appleton%20Rank-1st%20Most%20Followed-green?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/Wisconsin%20Rank-60th%20Most%20Followed-green?style=for-the-badge&logo=github" />
 
 </div>
