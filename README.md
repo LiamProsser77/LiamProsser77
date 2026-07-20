@@ -43,11 +43,11 @@
 ## Heofon Stats
 ### Goal: 150 Followers
 
-Heofon Users: 1300
+Heofon Users: 1400
 
 Github Followers: 124
 
-Linkedin Followers: 11
+Linkedin Followers: 18
 
 Twitch Followers: 1
 
