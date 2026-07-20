@@ -103,7 +103,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 ## Languages that Heofon Search is written in: 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css" />
+<img src="https://skillicons.dev/icons?i=html,ruby,python" />
 </p>
 
 ## Dev Platforms
