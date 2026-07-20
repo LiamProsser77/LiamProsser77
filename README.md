@@ -229,9 +229,9 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇰🇪 Kenya — 3
 
-🇳🇬 Nigeria — 1
+🇪🇹 Ethiopia — 2
 
-🇪🇹 Ethiopia — 1
+🇳🇬 Nigeria — 1
 
 🇿🇦 South Africa - 1
 
