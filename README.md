@@ -45,7 +45,7 @@
 
 Heofon Users: 1400
 
-Github Followers: 132
+Github Followers: 138
 
 Linkedin Followers: 18
 
@@ -183,7 +183,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 🇬🇧 United Kingdom — 5
 
-🇹🇷 Türkiye — 3
+🇹🇷 Türkiye — 4
 
 🇧🇾 Belarus — 2
 
