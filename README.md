@@ -55,7 +55,7 @@ Quora Followers: 1
 
 Apps Built: 15
 
-Countries In: 37
+Countries In: 38
 
 ---
 #### Join my Quora Community to learn more about topics and questions at: https://heofonsearch.quora.com/
@@ -194,6 +194,8 @@ From left to right, the left side represents what I’ve learned the most, and t
 🇺🇦 Ukraine — 1
 
 🇨🇭 Switzerland - 1
+
+🇮🇪 Ireland - 1
 
 ## Asia
 
