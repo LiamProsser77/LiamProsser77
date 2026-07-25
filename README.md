@@ -85,19 +85,19 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 From left to right, the left side represents what I’ve learned the most, and the right side represents what I’ve learned the least.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ruby,html,python,swift,fortran,cs,css" />
+<img src="https://skillicons.dev/icons?i=ruby,html,python,rust,fortran,swift" />
 </p>
 
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,swift,css" />
+<img src="https://skillicons.dev/icons?i=html,swift" />
 </p>
 
 ## Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ruby,python,fortran,cs" />
+<img src="https://skillicons.dev/icons?i=ruby,python,rust,fortran" />
 </p>
 
 ---
@@ -127,7 +127,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 ## Want to Learn
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,php" /> 
+<img src="https://skillicons.dev/icons?i=cpp,c,php" /> 
 
   
 
