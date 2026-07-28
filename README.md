@@ -45,9 +45,9 @@
 
 Heofon Users: 1400
 
-Github Followers: 176
+Github Followers: 178
 
-Linkedin Followers: 23
+Linkedin Followers: 27
 
 Twitch Followers: 1
 
