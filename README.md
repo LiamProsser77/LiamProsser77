@@ -129,7 +129,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 ## You can check out my work using these coding languages:
 
 - HTML: https://github.com/LiamProsser77/HeofonGlobalSearch (Heofon Search)
-- HTML: https://github.com/LiamProsser77/resisting-the-solace-website (Resisting the Solace website)
+- Fortran: https://github.com/LiamProsser77/resisting-the-solace-website (Resisting the Solace website)
 - Ruby: https://github.com/LiamProsser77/Ruby-Heofon-Mini (Heofon Search in Ruby test)
 - CSS: https://github.com/LiamProsser77/Heofon-OS-26 (Heofon OS 26)
 
