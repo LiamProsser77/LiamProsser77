@@ -64,13 +64,6 @@ Countries In: 38
 
 
 
-<p><a href="https://www.pinterest.com/liamprosser1309/_profile/_created/" target="_blank">
-  Follow this cute puppy on Pinterest 🐾
-</a></p>
-
-
-
-
 ## About Me
 
 ### Founder &amp; Lead Developer: Liam Aleksander Prosser
