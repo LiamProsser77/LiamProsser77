@@ -84,7 +84,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,swift" />
+<img src="https://skillicons.dev/icons?i=html,swift,react,vite" />
 </p>
 
 ## Backend
@@ -108,7 +108,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 ## AI and others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,supabase,netlify" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" />
   <img
   src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"
