@@ -37,36 +37,29 @@
 
 ---
 
-## Heofon Stats
+## Liam Prosser stats
 ### Goal: 350 Followers
 
-Heofon Users: 1400
-
 Github Followers: 251
-
-Linkedin Followers: 32
 
 Twitch Followers: 1
 
 Quora Followers: 1
 
-Apps Built: 15
+#### Founder of Heofon Search
 
-Countries In: 38
+#### Founder of GronnFalk Search
+
+#### Founder of EveryCorner Social
 
 ---
-#### Join my Quora Community to learn more about topics and questions at: https://heofonsearch.quora.com/
-
-#### If someone stars or Forks one of my Repository's, I will do the same back! 😄
-
-
 
 ## About Me
 
 ### Founder &amp; Lead Developer: Liam Aleksander Prosser
-I founded Heofon Global Search in early March 2026 after conceptualizing the platform in late February 2026. I lead the development on the Heofon search engine, Heopad, Heofonix AI models, and Heofon OS 26. I founded Heofon Search and I thought the privacy world of search engines needed an ecosystem, so I created Heofon in my living room in Appleton Wisconsin in March 6, 2026. Heofon Search was called Heofon Global Search, known today as Heofon Search. I am known as a coin collector and a developer, I also have fun playing Pickleball and collect many antiques while developing the Heofon ecosytem. I am a Norwegian American developer that wants Heofon to be known to stop tracking searches and to have a private ecosystem. 
+I founded Heofon Global Search in early March 2026 after conceptualizing the platform in late February 2026. I lead the development on the Heofon search engine, Heopad, Heofonix AI models, and Heofon OS 26. I founded Heofon Search and I thought the privacy world of search engines needed an ecosystem, so I created Heofon in my living room in Appleton Wisconsin in March 6, 2026. Heofon Search was called Heofon Global Search, known today as Heofon Search. I am known as a coin collector and a developer, I also have fun playing Pickleball and collect many antiques while developing the Heofon ecosytem. I am a Norwegian American developer that wants Heofon to be known to stop tracking searches and to have a private ecosystem. But Heofon was a learning experience so I no longer maintained it now I shifted focus to GronnFalk Search a metasearch engine, please check it out.
 
-### You can test out Heofon Search at: https://heofonsearch.zite.so
+### You can test out GronnFalk at: https://liamprosser77.github.io/gronnfalk/
 
 ---
 
@@ -75,13 +68,13 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 From left to right, the left side represents what I’ve learned the most, and the right side represents what I’ve learned the least.
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ruby,html,python,rust,fortran,swift" />
+<img src="https://skillicons.dev/icons?i=ruby,html,python,rust,js,fortran,swift" />
 </p>
 
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,swift,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,swift,js,react,vite" />
 </p>
 
 ## Backend
@@ -92,11 +85,7 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 ---
 
-## Languages that Heofon Search is written in: 
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,ruby,python" />
-</p>
+ 
 
 ## Dev Platforms
 <p align="center">
@@ -125,123 +114,10 @@ From left to right, the left side represents what I’ve learned the most, and t
 
 ## You can check out my work using these coding languages:
 
+- Javascript:https://github.com/LiamProsser77/gronnfalk (GronnFalk)
 - HTML: https://github.com/LiamProsser77/HeofonGlobalSearch (Heofon Search)
 - Fortran: https://github.com/LiamProsser77/resisting-the-solace-website (Resisting the Solace website)
-- Ruby: https://github.com/LiamProsser77/Ruby-Heofon-Mini (Heofon Search in Ruby test)
-- CSS: https://github.com/LiamProsser77/Heofon-OS-26 (Heofon OS 26)
-
-
-
-## The Heofon Ecosystem
-
-- Heofon Search  
-- Heofon Nodes  
-- Heomaps  
-- Heonews  
-- Knarr Browser  
-- Heofon OS 26  
-- Heofonix AI  
-- Heofonix Bluelight  
-- Heomail  
-- HeoPad  
-- HeoCompose  
-- Heotranslate  
-- HPP  
-- Heofon Hub  
-- Heofeedback  
-- History of Heofon
-
-#### Heofon is looking for non-binding partnerships with search engines, to partner email us at heofonsearch.help@outlook.com
-
-
-
-## Users of Heofon by country:
-
-## North America
-
-🇺🇸 United States — 702
-
-🇨🇦 Canada — 3
-
-🇨🇷 Costa Rica - 1
-
-🇳🇮 Nicaragua - 1
-
-## Europe
-
-🇳🇴 Norway — 350
-
-🇸🇪 Sweden — 20
-
-🇬🇧 United Kingdom — 5
-
-🇹🇷 Türkiye — 4
-
-🇧🇾 Belarus — 2
-
-🇩🇪 Germany - 2
-
-🇺🇦 Ukraine — 1
-
-🇨🇭 Switzerland - 1
-
-🇮🇪 Ireland - 1
-
-## Asia
-
-🇰🇷 South Korea — 201
-
-🇵🇰 Pakistan — 6
-
-🇧🇩 Bangladesh — 5
-
-🇮🇳 India — 5
-
-🇯🇵 Japan — 3
-
-🇸🇬 Singapore — 1
-
-🇵🇭 Philippines — 1
-
-🇹🇭 Thailand — 1
-
-🇱🇰 Sri Lanka - 1
-
-🇦🇿 Azerbaijan - 1
-
-🇰🇿 Kazakhstan - 1
-
-🇰🇭 Cambodia - 1
-
-🇨🇳 China - 1
-
-🇯🇴 Jordan - 1
-
-## Africa
-
-🇪🇬 Egypt — 3
-
-🇰🇪 Kenya — 3
-
-🇪🇹 Ethiopia — 2
-
-🇳🇬 Nigeria — 1
-
-🇿🇦 South Africa - 1
-
-🇲🇬 Madagascar - 1
-
-🇲🇦 Morocco - 1
-
-🇩🇿 Algeria - 1
-
-## South America
-
-🇧🇷 Brazil - 1
-
-🇨🇴 Colombia — 1
-
-🇨🇱 Chile - 1
+- Ruby: https://github.com/LiamProsser77/Ruby-Heofon-Mini (Heofon Search in Ruby as test)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamProsser77&layout=compact&theme=radical)
