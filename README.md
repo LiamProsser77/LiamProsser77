@@ -5,7 +5,7 @@
 <h2 align="center">🇳🇴 Norwegian-American Developer 🇺🇸</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Building+the+Heofon+Ecosystem;Learning+Python+HTML5+C%23+Ruby+CSS+Fortran;Welcome+to+my+GitHub&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Building+GronnFalk+Search;Learning+Python+HTML5+C%23+Ruby+CSS+Fortran;Welcome+to+my+GitHub&center=true&width=500&height=45" />
 </p>
 
 <div align="center">
@@ -23,10 +23,7 @@
     <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.quora.com/profile/HeofonGlobalSearch">
-    <img src="https://img.shields.io/badge/Quora-Profile-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/heofon-globalsearch-931504402/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Quora-Profile-B92B27?style=for-the-badge&logo=quora&logoColor=white" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     <a href="https://www.twitch.tv/heofonsearch">
       <img src="https://img.shields.io/badge/Twitch-Profile-0A66C2?style=for-the-badge&logo=twitch&logoColor=white" />
   
