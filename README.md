@@ -40,7 +40,7 @@
 ## Liam Prosser stats
 ### Goal: 350 Followers
 
-Github Followers: 271
+Github Followers: 272
 
 Twitch Followers: 1
 
