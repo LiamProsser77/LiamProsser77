@@ -46,9 +46,9 @@ Twitch Followers: 1
 
 Quora Followers: 1
 
-#### Founder of Heofon Search
-
 #### Founder of GronnFalk Search
+
+#### Founder of Heofon Search
 
 #### Founder of EveryCorner Social
 
