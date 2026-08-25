@@ -61,6 +61,12 @@ I founded Heofon Global Search in early March 2026 after conceptualizing the pla
 
 ### You can test out GronnFalk at: https://liamprosser77.github.io/gronnfalk/
 
+### SearXNG
+
+I'm involved in the SearXNG community through issue discussions, testing, and attempted contributions.
+
+Check out SearXNG: https://github.com/searxng/searxng
+
 ---
 
 ## Languages & Tools:
