@@ -40,7 +40,7 @@
 ## Liam Prosser stats
 ### Goal: 350 Followers
 
-Github Followers: 303
+Github Followers: 307
 
 Twitch Followers: 1
 
@@ -51,6 +51,8 @@ Quora Followers: 1
 #### Founder of Heofon Search
 
 #### Founder of EveryCorner Social
+
+* Note: Some Contributions are not on the list, it was lost when one email was removed, I used to have over 1000 Contributions.
 
 ---
 
