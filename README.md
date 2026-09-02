@@ -56,6 +56,15 @@ Quora Followers: 1
 
 ---
 
+<h2>Special Thanks</h2>
+
+<p>
+  A special thank you to
+  <a href="https://github.com/asciimoo">Adam Tauber (@asciimoo)</a>,
+  the creator of Hister and SearX, for his kind words and encouragement toward GronnFalk.
+  SearXNG has been an important inspiration for this project.
+</p>
+
 ## About Me
 
 ### Founder &amp; Lead Developer: Liam Aleksander Prosser
