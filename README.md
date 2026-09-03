@@ -19,10 +19,10 @@
 
 
 <p align="center">
-  <a href="mailto:heofonsearch.help@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <a href="mailto:liamprosser@proton.me">
+    <img src="https://img.shields.io/badge/Email-Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://www.quora.com/profile/HeofonGlobalSearch">
+<a href="https://www.quora.com/profile/HeofonGlobalSearch">
     <img src="https://img.shields.io/badge/Quora-Profile-B92B27?style=for-the-badge&logo=quora&logoColor=white" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     <a href="https://www.twitch.tv/heofonsearch">
       <img src="https://img.shields.io/badge/Twitch-Profile-0A66C2?style=for-the-badge&logo=twitch&logoColor=white" />
