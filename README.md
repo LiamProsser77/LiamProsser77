@@ -36,7 +36,7 @@
 
 ### Goal: 350 Followers
 
-- **GitHub Followers:** 316
+- **GitHub Followers:** 318
 - **Twitch Followers:** 1
 - **Quora Followers:** 1
 
