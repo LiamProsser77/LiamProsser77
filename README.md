@@ -97,46 +97,30 @@ I'm involved in the SearXNG community through issue discussions, testing, and at
 
 ---
 
-# Languages & Tools
-
-> From left to right, the languages on the left represent those I have learned the most, while those on the right represent languages I am still learning.
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,html,python,rust,js,fortran,swift" />
-</p>
-
-## Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,swift,js,react,vite" />
-</p>
-
-## Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,python,rust,fortran" />
-</p>
-
----
-
-## Dev Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket" />
-</p>
-
-## AI and Others
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,supabase,linux,windows" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="48" height="48" alt="Ruby on Rails" />
-</p>
-
-## Want to Learn
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,php" />
+  <img src="https://skillicons.dev/icons?i=ruby&perline=1" width="48" height="48" alt="Ruby" />
+  <img src="https://skillicons.dev/icons?i=html&perline=1" width="48" height="48" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=python&perline=1" width="48" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=rust&perline=1" width="48" height="48" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=js&perline=1" width="48" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=fortran&perline=1" width="48" height="48" alt="Fortran" />
+  <img src="https://skillicons.dev/icons?i=swift&perline=1" width="48" height="48" alt="Swift" />
+  <img src="https://skillicons.dev/icons?i=react&perline=1" width="48" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=vite&perline=1" width="48" height="48" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=github&perline=1" width="48" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab&perline=1" width="48" height="48" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=bitbucket&perline=1" width="48" height="48" alt="Bitbucket" />
+  <img src="https://skillicons.dev/icons?i=docker&perline=1" width="48" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=vercel&perline=1" width="48" height="48" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=supabase&perline=1" width="48" height="48" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=linux&perline=1" width="48" height="48" alt="Linux" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Linux_Mint_logo_without_wordmark.svg" width="48" height="48" alt="Linux Mint" />
+  <img src="https://skillicons.dev/icons?i=windows&perline=1" width="48" height="48" alt="Windows" />
+  <img src="https://skillicons.dev/icons?i=cpp&perline=1" width="48" height="48" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c&perline=1" width="48" height="48" alt="C" />
+  <img src="https://skillicons.dev/icons?i=php&perline=1" width="48" height="48" alt="PHP" />
 </p>
 
 ---
