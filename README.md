@@ -35,6 +35,7 @@
 # Liam Prosser Stats
 
 ### Goal: 350 Followers
+### Goal stars for GronnFalk: 1K
 
 - **GitHub Followers:** 327
 - **Twitch Followers:** 1
@@ -51,6 +52,21 @@
 > **Note:** Some of my contributions are no longer shown on GitHub because an email address associated with previous contributions was removed. I previously had over 1,000 contributions.
 
 ---
+## Help Wanted
+
+GronnFalk is looking for contributors.
+
+If you like open-source projects, search engines, or web development, help us improve GronnFalk.
+
+- Star the repository
+- Fork the repository
+- Contribute code, fixes, ideas, or documentation
+
+Every star, fork, and contribution helps GronnFalk grow.
+
+**Want to help? Fork the repo and get started.**
+
+
 
 # Special Thanks
 
@@ -136,7 +152,7 @@ I'm involved in the SearXNG community through issue discussions, testing, and at
 
 ---
 
-# Most Used Languages
+# Most Used Languages 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamProsser77&layout=compact&theme=radical" alt="Most Used Languages" />
