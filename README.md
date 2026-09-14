@@ -125,4 +125,7 @@ I'm involved in the SearXNG community through issue discussions, testing, and at
   <img src="https://skillicons.dev/icons?i=windows&perline=1" width="48" height="48" alt="Windows" />
 </p>
 
+## My Projects 
+
+<table> <tr> <td width="50%" height="180"> <h3>GronnFalk</h3> <p>A privacy-focused, open-source metasearch engine built for a simple and independent search experience.</p> <a href="https://github.com/LiamProsser77/gronnfalk">View Repository →</a> </td> <td width="50%" height="180"> <h3>Stashlash</h3> <p>A project focused on building a simple and useful place to store and save files.     </p> <a href="https://github.com/LiamProsser77/stashlash">View Repository →</a> </td> </tr> <tr> <td width="50%" height="180"> <h3>EveryCorner</h3> <p>A social platform where users can create and join communities called Corners.</p> <a href="https://github.com/LiamProsser77/EveryCorner">View Repository →</a> </td> <td width="50%" height="180"> <h3>Mabel 1</h3> <p>A horror game project built around exploration, suspense, and survival.</p> <a href="https://github.com/LiamProsser77/Mabel-1">View Repository →</a> </td> </tr> <tr> <td width="50%" height="180"> <h3>Heofon Search</h3> <p>A privacy-focused global search engine project and the original Heofon search project.</p> <a href="https://github.com/LiamProsser77/HeofonGlobalSearch">View Repository →</a> </td> <td width="50%" height="180"></td> </tr> </table>
 
