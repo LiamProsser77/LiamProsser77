@@ -13,16 +13,8 @@
 </div>
 
 <p align="center">
-  <a href="mailto:liamprosser@proton.me">
+  <a href="mailto:liamprosser77@proton.me">
     <img src="https://img.shields.io/badge/Email-Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://www.quora.com/profile/HeofonGlobalSearch">
-    <img src="https://img.shields.io/badge/Quora-Profile-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" />
-  </a>
-
-  <a href="https://www.twitch.tv/heofonsearch">
-    <img src="https://img.shields.io/badge/Twitch-Profile-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
 
   <a href="https://gitlab.com/LiamProsser77">
@@ -123,37 +115,14 @@ I'm involved in the SearXNG community through issue discussions, testing, and at
   <img src="https://skillicons.dev/icons?i=python&perline=1" width="48" height="48" alt="Python" />
   <img src="https://skillicons.dev/icons?i=rust&perline=1" width="48" height="48" alt="Rust" />
   <img src="https://skillicons.dev/icons?i=js&perline=1" width="48" height="48" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=fortran&perline=1" width="48" height="48" alt="Fortran" />
-  <img src="https://skillicons.dev/icons?i=swift&perline=1" width="48" height="48" alt="Swift" />
-  <img src="https://skillicons.dev/icons?i=react&perline=1" width="48" height="48" alt="React" />
-  <img src="https://skillicons.dev/icons?i=vite&perline=1" width="48" height="48" alt="Vite" />
-  <img src="https://skillicons.dev/icons?i=github&perline=1" width="48" height="48" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gitlab&perline=1" width="48" height="48" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=bitbucket&perline=1" width="48" height="48" alt="Bitbucket" />
+  <img src="https://skillicons.dev/icons?i=c&perline=1" width="48" height="48" alt="C" />
+  <img src="https://skillicons.dev/icons?i=php&perline=1" width="48" height="48" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=docker&perline=1" width="48" height="48" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=vercel&perline=1" width="48" height="48" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=github&perline=1" width="48" height="48" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=supabase&perline=1" width="48" height="48" alt="Supabase" />
   <img src="https://skillicons.dev/icons?i=linux&perline=1" width="48" height="48" alt="Linux" />
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Linux_Mint_logo_without_wordmark.svg" width="48" height="48" alt="Linux Mint" />
   <img src="https://skillicons.dev/icons?i=windows&perline=1" width="48" height="48" alt="Windows" />
-  <img src="https://skillicons.dev/icons?i=cpp&perline=1" width="48" height="48" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=c&perline=1" width="48" height="48" alt="C" />
-  <img src="https://skillicons.dev/icons?i=php&perline=1" width="48" height="48" alt="PHP" />
 </p>
 
----
 
-# My Projects by Language
-
-- **HTML:** <a href="https://github.com/LiamProsser77/gronnfalk">GronnFalk</a>
-- **TypeScript:** <a href="https://github.com/LiamProsser77/HeofonGlobalSearch">Heofon Search</a>
-- **Fortran:** <a href="https://github.com/LiamProsser77/resisting-the-solace-website">Resisting the Solace Website</a>
-- **Ruby:** <a href="https://github.com/LiamProsser77/Ruby-Heofon-Mini">Ruby Heofon Mini</a>
-
----
-
-# Most Used Languages 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamProsser77&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
