@@ -41,7 +41,7 @@
 
 #### Founder of Stashlash
 
-> **Note:** Some of my contributions are no longer shown on GitHub because an email address associated with previous contributions was removed. I previously had over 1,000 contributions.
+
 
 ---
 ## Help Wanted
