@@ -27,7 +27,7 @@
 # Liam Prosser Stats
 
 ### Goal: 350 Followers
-### Goal stars for GronnFalk: 1K
+### Goal stars for GronnFalk: 10
 
 - **GitHub Followers:** 337
 - **Twitch Followers:** 1
