@@ -29,7 +29,7 @@
 ### Goal: 350 Followers
 ### Goal stars for GronnFalk: 10
 
-- **GitHub Followers:** 343
+- **GitHub Followers:** 342
 - **Twitch Followers:** 1
 - **Quora Followers:** 1
 
