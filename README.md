@@ -24,86 +24,26 @@
 
 ---
 
-# Liam Prosser Stats
-
-### Goal: 350 Followers
-### Goal stars for GronnFalk: 10
-
-- **GitHub Followers:** 343
-- **Twitch Followers:** 1
-- **Quora Followers:** 1
-
-#### Founder of GronnFalk Search
-
-#### Founder of Heofon Search
-
-#### Founder of EveryCorner Social
-
-#### Founder of Stashlash
-
-
-
----
-## Help Wanted
-
-GronnFalk is looking for contributors.
-
-If you like open-source projects, search engines, or web development, help us improve GronnFalk.
-
-- Star the repository
-- Fork the repository
-- Contribute code, fixes, ideas, or documentation
-
-Every star, fork, and contribution helps GronnFalk grow.
-
-**Want to help? Fork the repo and get started.**
-
-
-
-# Special Thanks
-
-<p>
-  A special thank you to
-  <a href="https://github.com/asciimoo">Adam Tauber (@asciimoo)</a>,
-  the creator of Hister and SearX, for his kind words and encouragement toward GronnFalk.
-</p>
-
-<p>
-  SearXNG has been an important inspiration for my work.
-</p>
+# About Me 
+I'm Liam Prosser, a backend developer and open-source creator. Founder of **GronnFalk Search**, **Heofon Search**, **EveryCorner**, and **Stashlash**. I enjoy programming, coin collecting, Pickleball and other fun activities.
 
 ---
 
-# About Me
+# SearXNG and Hister
 
-## Founder & Lead Developer: Liam Aleksander Prosser
-
-I founded Heofon Global Search in early March 2026 after first conceptualizing the platform in late February 2026.
-
-I led development on the Heofon search engine, Heopad, Heofonix AI models, and Heofon OS 26. I created Heofon because I believed the privacy-focused search world needed its own ecosystem.
-
-Heofon Search was originally called **Heofon Global Search** and is now known as **Heofon Search**.
-
-Outside of programming, I enjoy coin collecting, antiques, and playing pickleball.
-
-Heofon was an important learning experience for me, but I am no longer actively maintaining it. My current focus is **GronnFalk Search**, a privacy-focused metasearch engine.
-
-### You can try GronnFalk here:
-
-<a href="https://liamprosser77.github.io/gronnfalk/">
-  https://liamprosser77.github.io/gronnfalk/
-</a>
-
----
-
-# SearXNG
-
-I'm involved in the SearXNG community through issue discussions, testing, and attempted contributions.
+I'm involved in SearXNG and Hister development
 
 <p>
   Check out
-  <a href="https://github.com/searxng/searxng">SearXNG</a>.
+  
+  <a href="https://github.com/searxng/searxng">SearXNG</a>
+  
+  
+  <a href="https://github.com/asciimoo/hister">Hister</a>
 </p>
+
+
+<p> A special thank you to <a href="https://github.com/asciimoo">Adam Tauber (@asciimoo)</a>, the creator of Hister and SearX, for his kind words and encouragement toward GronnFalk. </p> <p> SearXNG has been an important inspiration for my work. </p>
 
 ---
 
@@ -124,8 +64,4 @@ I'm involved in the SearXNG community through issue discussions, testing, and at
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Linux_Mint_logo_without_wordmark.svg" width="48" height="48" alt="Linux Mint" />
   <img src="https://skillicons.dev/icons?i=windows&perline=1" width="48" height="48" alt="Windows" />
 </p>
-
-## My Projects 
-
-<table> <tr> <td width="50%" height="180"> <h3>GronnFalk</h3> <p>A privacy-focused, open-source metasearch engine built for a simple and independent search experience.</p> <a href="https://github.com/LiamProsser77/gronnfalk">View Repository →</a> </td> <td width="50%" height="180"> <h3>Stashlash</h3> <p>A project focused on building a simple and useful place to store and save files.     </p> <a href="https://github.com/LiamProsser77/stashlash">View Repository →</a> </td> </tr> <tr> <td width="50%" height="180"> <h3>EveryCorner</h3> <p>A social platform where users can create and join communities called Corners.</p> <a href="https://github.com/LiamProsser77/EveryCorner">View Repository →</a> </td> <td width="50%" height="180"> <h3>Mabel 1</h3> <p>A horror game project built around exploration, suspense, and survival.</p> <a href="https://github.com/LiamProsser77/Mabel-1">View Repository →</a> </td> </tr> <tr> <td width="50%" height="180"> <h3>Heofon Search</h3> <p>A privacy-focused global search engine project and the original Heofon search project.</p> <a href="https://github.com/LiamProsser77/HeofonGlobalSearch">View Repository →</a> </td> <td width="50%" height="180"></td> </tr> </table>
 
