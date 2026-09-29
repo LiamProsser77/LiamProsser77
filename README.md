@@ -65,5 +65,9 @@ I'm involved in SearXNG and Hister development
   <img src="https://skillicons.dev/icons?i=windows&perline=1" width="48" height="48" alt="Windows" />
 </p>
 
-<img src="./profile/stats.svg" alt="LiamProsser77's GitHub stats">
+## Streak
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=LiamProsser77" alt="GitHub Streak">
+</a>
 
