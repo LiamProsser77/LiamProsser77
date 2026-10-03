@@ -64,10 +64,3 @@ I'm involved in SearXNG and Hister development
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Linux_Mint_logo_without_wordmark.svg" width="48" height="48" alt="Linux Mint" />
   <img src="https://skillicons.dev/icons?i=windows&perline=1" width="48" height="48" alt="Windows" />
 </p>
-
-## Streak
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=LiamProsser77" alt="GitHub Streak">
-</a>
-
