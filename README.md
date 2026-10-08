@@ -64,3 +64,11 @@ I'm involved in SearXNG and Hister development
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Linux_Mint_logo_without_wordmark.svg" width="48" height="48" alt="Linux Mint" />
   <img src="https://skillicons.dev/icons?i=windows&perline=1" width="48" height="48" alt="Windows" />
 </p>
+
+## Social
+
+**Lemmy**: https://lemmy.org/u/GronnFalk
+
+**Matrix**: @liamprosser:matrix.org
+
+
