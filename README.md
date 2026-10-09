@@ -29,24 +29,6 @@ I'm Liam Prosser, a backend developer and open-source creator. Founder of **Gron
 
 ---
 
-# SearXNG and Hister
-
-I'm involved in SearXNG and Hister development
-
-<p>
-  Check out
-  
-  <a href="https://github.com/searxng/searxng">SearXNG</a>
-  
-  
-  <a href="https://github.com/asciimoo/hister">Hister</a>
-</p>
-
-
-<p> A special thank you to <a href="https://github.com/asciimoo">Adam Tauber (@asciimoo)</a>, the creator of Hister and SearX, for his kind words and encouragement toward GronnFalk. </p> <p> SearXNG has been an important inspiration for my work. </p>
-
----
-
 ## Tech Stack
 
 <p align="center">
