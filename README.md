@@ -57,6 +57,7 @@ I'm Liam Prosser, a backend developer and open-source creator. Founder of **Gron
 
 Thanks to everyone who has contributed to [GronnFalk](https://github.com/LiamProsser77/gronnfalk)!
 
-[![Contributors](https://contrib.rocks/image?repo=LiamProsser77/gronnfalk)](https://github.com/LiamProsser77/gronnfalk/graphs/contributors)
-
-
+[![LiamProsser77](https://github.com/LiamProsser77.png?size=80)](https://github.com/LiamProsser77)
+[![blueheron786](https://github.com/blueheron786.png?size=80)](https://github.com/blueheron786)
+[![terminalchai](https://github.com/terminalchai.png?size=80)](https://github.com/terminalchai)
+[![8Ashwinee](https://github.com/8Ashwinee.png?size=80)](https://github.com/8Ashwinee)
