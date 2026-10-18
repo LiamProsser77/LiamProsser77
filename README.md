@@ -25,7 +25,7 @@
 ---
 
 # About Me 
-I'm Liam Prosser, a backend developer and open-source creator. Founder of **GronnFalk Search**, **Heofon Search**, **EveryCorner**, and **Stashlash**. I enjoy programming, coin collecting, Pickleball and other fun activities.
+I'm Liam Prosser, a backend developer and open-source creator. Founder of **GronnFalk Search**, **Heofon Search**, **EveryCorner**. I enjoy programming, coin collecting, Pickleball and other fun activities.
 
 ---
 
