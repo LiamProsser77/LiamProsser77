@@ -1,4 +1,3 @@
-<img width="468" height="60" alt="appletonpackinggasket" src="https://github.com/user-attachments/assets/9a8f1121-bde6-4167-a26f-8d0b21afbeef" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/LiamProsser77/LiamProsser77/main/Hi.png" width="250" alt="Hi" />
 </p>
