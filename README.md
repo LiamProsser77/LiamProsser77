@@ -61,3 +61,10 @@ Thanks to everyone who has contributed to [GronnFalk](https://github.com/LiamPro
 [![blueheron786](https://github.com/blueheron786.png?size=80)](https://github.com/blueheron786)
 [![terminalchai](https://github.com/terminalchai.png?size=80)](https://github.com/terminalchai)
 [![8Ashwinee](https://github.com/8Ashwinee.png?size=80)](https://github.com/8Ashwinee)
+
+## Other thanks
+
+I am giving a massive thank you to these wonderful people:
+
+[<img src="https://github.com/daoudclarke.png" width="80">](https://github.com/daoudclarke)
+[<img src="https://github.com/asciimoo.png" width="80">](https://github.com/asciimoo)
