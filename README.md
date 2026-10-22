@@ -76,4 +76,4 @@ I am giving a massive thank you to these wonderful people:
 </a>
 <br>
 <img width="200" height="60" alt="Netscape" src="https://github.com/user-attachments/assets/d6affa97-078c-4ce8-b249-c6312a9afb23">
-<img width="88" height="31" alt="gronnfalk" src="https://github.com/user-attachments/assets/4d69f36c-700c-48dd-bb73-2053f95c7fc0" />
+<img width="200" height="60" alt="gronnfalk" src="https://github.com/user-attachments/assets/4d69f36c-700c-48dd-bb73-2053f95c7fc0" />
