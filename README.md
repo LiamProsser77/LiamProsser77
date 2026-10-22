@@ -74,5 +74,5 @@ I am giving a massive thank you to these wonderful people:
 <a href="https://appletonpackinggasket.com">
   <img width="468" height="60" alt="Appleton Packing & Gasket" src="https://github.com/user-attachments/assets/eebd8b3d-d177-41bc-8a44-fb6b7fced5bd">
 </a>
-
-
+<br>
+<img width="200" height="60" alt="Netscape" src="https://github.com/user-attachments/assets/d6affa97-078c-4ce8-b249-c6312a9afb23">
