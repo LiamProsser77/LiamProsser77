@@ -71,5 +71,8 @@ I am giving a massive thank you to these wonderful people:
 [<img src="https://github.com/daoudclarke.png" width="80">](https://github.com/daoudclarke)
 [<img src="https://github.com/asciimoo.png" width="80">](https://github.com/asciimoo)
 
-<img width="468" height="60" alt="appletonpackinggasket" src="appletonpackinggasket.com" />
+<a href="https://appletonpackinggasket.com">
+  <img width="468" height="60" alt="Appleton Packing & Gasket" src="https://github.com/user-attachments/assets/eebd8b3d-d177-41bc-8a44-fb6b7fced5bd">
+</a>
+
 
