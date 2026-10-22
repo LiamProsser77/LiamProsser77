@@ -62,6 +62,8 @@ Thanks to everyone who has contributed to [GronnFalk](https://github.com/LiamPro
 [![terminalchai](https://github.com/terminalchai.png?size=80)](https://github.com/terminalchai)
 [![8Ashwinee](https://github.com/8Ashwinee.png?size=80)](https://github.com/8Ashwinee)
 
+[![GronnFalk Matrix](https://img.shields.io/matrix/gronnfalk:matrix.org?label=GronnFalk%20Matrix&logo=matrix&color=0dbd8b)](https://app.element.io/#/room/#gronnfalk:matrix.org)
+
 ## Other thanks
 
 I am giving a massive thank you to these wonderful people:
