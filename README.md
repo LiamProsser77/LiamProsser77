@@ -61,6 +61,9 @@ Thanks to everyone who has contributed to [GronnFalk](https://github.com/LiamPro
 [![blueheron786](https://github.com/blueheron786.png?size=80)](https://github.com/blueheron786)
 [![terminalchai](https://github.com/terminalchai.png?size=80)](https://github.com/terminalchai)
 [![8Ashwinee](https://github.com/8Ashwinee.png?size=80)](https://github.com/8Ashwinee)
+[![sharmis-tp](https://github.com/sharmis-tp.png?size=80)](https://github.com/sharmis-tp)
+[![claude](https://github.com/claude.png?size=80)](https://github.com/claude)
+
 
 [![GronnFalk Matrix](https://img.shields.io/matrix/gronnfalk:matrix.org?label=GronnFalk%20Matrix&logo=matrix&color=0dbd8b)](https://app.element.io/#/room/#gronnfalk:matrix.org)
 
