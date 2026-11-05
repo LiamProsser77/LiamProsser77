@@ -67,12 +67,7 @@ Thanks to everyone who has contributed to [GronnFalk](https://github.com/LiamPro
 
 [![GronnFalk Matrix](https://img.shields.io/matrix/gronnfalk:matrix.org?label=GronnFalk%20Matrix&logo=matrix&color=0dbd8b)](https://app.element.io/#/room/#gronnfalk:matrix.org)
 
-## Other thanks
 
-I am giving a massive thank you to these wonderful people:
-
-[<img src="https://github.com/daoudclarke.png" width="80">](https://github.com/daoudclarke)
-[<img src="https://github.com/asciimoo.png" width="80">](https://github.com/asciimoo)
 
 <a href="https://appletonpackinggasket.com">
   <img width="468" height="60" alt="Appleton Packing & Gasket" src="https://github.com/user-attachments/assets/eebd8b3d-d177-41bc-8a44-fb6b7fced5bd">
