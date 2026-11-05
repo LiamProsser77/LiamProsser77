@@ -3,6 +3,7 @@
 </p>
 
 <h2 align="center">🇳🇴 Norwegian-American Developer 🇺🇸</h2>
+<p align="center">
 <a href="https://appletonpackinggasket.com">
   <img width="468" height="60" alt="Appleton Packing & Gasket" src="https://github.com/user-attachments/assets/eebd8b3d-d177-41bc-8a44-fb6b7fced5bd">
 </a>
