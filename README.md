@@ -3,10 +3,10 @@
 </p>
 
 <h2 align="center">🇳🇴 Norwegian-American Developer 🇺🇸</h2>
+<a href="https://appletonpackinggasket.com">
+  <img width="468" height="60" alt="Appleton Packing & Gasket" src="https://github.com/user-attachments/assets/eebd8b3d-d177-41bc-8a44-fb6b7fced5bd">
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Building+GronnFalk+Search;Learning+Python+HTML5+C%23+Ruby+CSS+Fortran;Welcome+to+my+GitHub&center=true&width=500&height=45" alt="Typing SVG" />
-</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Appleton%20Rank-1st%20Most%20Followed-green?style=for-the-badge&logo=github" alt="Appleton Rank" />
   <img src="https://img.shields.io/badge/Wisconsin%20Rank-30th%20Most%20Followed-green?style=for-the-badge&logo=github" alt="Wisconsin Rank" />
